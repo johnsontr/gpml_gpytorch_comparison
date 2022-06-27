@@ -9,7 +9,7 @@ Generating data:  x_i ~ i.i.d. N(0,1), u_i ~ i.i.d. N(0,1), n = 101 and n = 201
 
 A simple linear DGP with low noise (SLLN):        y_1i = 1 - x_i + (0.1)*u_i
 
-A_ simple linear DGP with high noise (SLHN):      y_2i = 1 - x_i + u_i
+A simple linear DGP with high noise (SLHN):      y_2i = 1 - x_i + u_i
 
 A simple cubic DGP with low noise (SCLN):         y_3i = 1 - x_i + x^2_i - x^3_i + (0.1)*u_i
 
